@@ -1,6 +1,6 @@
 # Hi, I'm Manoj KP
 
-# Public Cloud Professional | Cloud Administrator | Windows Server Administration | Cloud FinOps | Skill Advisor | Educator | Cloud consultant
+# Public Cloud Professional | Cloud Administration | Windows Server Administration | Cloud FinOps | Skill Advisor | Educator | Cloud consultant
 
 # 💫 About Me:
 Experienced in Windows server administration and Cloud Operations (Cloud Ops) and Cloud FinOps Cloud Cost Optimization to budget management and managing cloud spending by discover the top strategies and tools for successful FinOps implementation. Managing cloud operations post migration to Azure. Implement high availability for Azure Virtual Machines. Responsible for Installation and configuration of Azure services and storage. Perform deep dive investigation on Azure servers by analysing memory dump, event log and logs of machines. Perform patching and the upgrades on clustered hosts using Tanium. Implement and Manage Azure resource groups, Azure Storage, Azure backup, Virtual Network. Windows server Administration with a demonstrated history of working in the information technology and services in industry on Solar Wind Orion, System Center Operations Manager (SCOM), System Center Configuration Manager (SCCM), Net Backup & Deploy Microsoft Patching & Software from Ivanti Shavlik . Skilled in Powers Shell, VB Script and Management. Strong information technology professional with a Master's Degree focused in Computer Science.
